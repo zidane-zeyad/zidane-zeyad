@@ -73,10 +73,11 @@ Egyptian Full Stack Developer based in Saudi Arabia with expertise in JavaScript
 
 ## Experience & Team
 
-<p align="center">
-  <img src="./assets/thailandcodes.png" width="35" alt="ThailandCodes" style="vertical-align: middle; margin-right: 10px;" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/zidane-zeyad/zidane-zeyad/main/assets/thailandcodes.png" width="30" alt="ThailandCodes" style="vertical-align: middle; margin-right: 8px;" />
   <span><strong>ThailandCodes Team +20k</strong></span>
 </p>
+
 
 ---
 
