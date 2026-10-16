@@ -74,7 +74,7 @@ Egyptian Full Stack Developer based in Saudi Arabia with expertise in JavaScript
 ## Experience & Team
 
 <p align="center">
-  <img src="./assets/thailandcodes.png" width="40" alt="ThailandCodes" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="./assets/thailandcodes.png" width="35" alt="ThailandCodes" style="vertical-align: middle; margin-right: 10px;" />
   <span><strong>ThailandCodes Team +20k</strong></span>
 </p>
 
